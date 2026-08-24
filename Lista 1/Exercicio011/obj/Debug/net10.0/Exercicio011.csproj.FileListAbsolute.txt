@@ -1,0 +1,15 @@
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\bin\Debug\net10.0\Exercicio011.exe
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\bin\Debug\net10.0\Exercicio011.deps.json
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\bin\Debug\net10.0\Exercicio011.runtimeconfig.json
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\bin\Debug\net10.0\Exercicio011.dll
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\bin\Debug\net10.0\Exercicio011.pdb
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\obj\Debug\net10.0\Exercicio011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\obj\Debug\net10.0\Exercicio011.AssemblyInfoInputs.cache
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\obj\Debug\net10.0\Exercicio011.AssemblyInfo.cs
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\obj\Debug\net10.0\Exercicio011.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\obj\Debug\net10.0\Exercicio011.sourcelink.json
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\obj\Debug\net10.0\Exercicio011.dll
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\obj\Debug\net10.0\refint\Exercicio011.dll
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\obj\Debug\net10.0\Exercicio011.pdb
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\obj\Debug\net10.0\Exercicio011.genruntimeconfig.cache
+C:\Users\luanc\OneDrive\Documentos\GitHub\LISTA-1-2-LABORATORIO-DE-DESENVOLVIMENTO-DE-SOFTWARE\Lista 1\Exercicio011\obj\Debug\net10.0\ref\Exercicio011.dll
